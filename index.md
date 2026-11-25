@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 # Granada Briefing - Wednesday 25 November 2026
