@@ -4,73 +4,48 @@ layout: page
 
 # Granada Briefing - Wednesday 25 November 2026
 
-**Today at a glance:** I could not retrieve an AEMET forecast for Granada today, so check aemet.es (Granada, id18087). A yellow wind warning was reported for Motril on the coast, and temperatures are expected to fall in the coming days. Spain's general election is this Sunday 29 November, and the Aguas Blancas bridge to Pinos Genil is closed for about two weeks.
+**Today at a glance:** Dry and mostly clear. AEMET gives 3°C low and 14°C high, with 0% chance of rain and no warnings for the Cuenca del Genil zone. Marches against gender violence are planned in Granada this evening. The general election is on Sunday 29 November.
+
+**Coverage note:** Granada Hoy, Ideal, granada.org and Turismo de Granada could not be fetched today, and El País English was blocked too. Local news and events are therefore thin, and I have left out anything I could not confirm.
 
 ## Upcoming happenings
 
-**Wednesday 25 Nov**
-- **Teatro: Thauma** - Teatro Alhambra, 20:00, 8 euros.
-- **Mayores en sinfonía: Hocus Pocus** - Auditorio Caja Rural, 11:30, price not listed.
-- **Jenny Tinten and Martín Perdomo** - Lemon Rock, 21:30, free. Live music.
-- **Jam de Impro Libre** - Ool Ya Koo, 22:00, 6 euros.
-- **25N events** - Acts and demonstrations marking the day against gender violence took place across the city. The Ayuntamiento held a tribute in Plaza del Humilladero.
+**Wednesday 25 November**
+- **International Day for the Elimination of Violence Against Women: demonstration** - Granada is listed among the cities with rallies (SafeAbroad advisory). Time and place are not confirmed. Nationwide marches are expected in the evening, so allow for travel disruption.
+- **Bonald bibliographic exhibition** - listed on the Ayuntamiento's cultural agenda and running through 30 November. Venue, hours and price were not confirmed.
 
-**Thursday 26 Nov**
-- **Luz Casal** - Palacio de Congresos, 21:00, 50/89 euros.
-- **Tigre y Diamante + Señorita Trueno Negro** - Lemon Rock, 21:00, 16 euros.
-- **Jam Session Jazz** - Ool Ya Koo, 22:00, 6 euros.
-- **Mateo Ortega Blues Band** - JJ Taberna, 21:00, 7 euros.
+**Sunday 29 November**
+- **General election** - polling stations are open. The Ayuntamiento is offering free transport to polling stations for residents with mobility difficulties. Check the city council site for how to request it.
 
-**Friday 27 Nov**
-- **Julio Iglesias Jr ("Julio Iglesias Experience")** - Palacio de Congresos, 20:00, 60.50 euros.
-- **Macbeth** - Teatro Alhambra, 20:00, 18/20 euros. It runs again on Saturday at 20:00.
-- **Tributo a Pepe Céspedes y Paco Calavera** - Palacio de Congresos, 20:30, 18/20 euros.
-- **Encuentros Soundbox** - Teatro Caja Granada, 20:30, 7 euros. Four emerging acts.
-- **Patrimonio Flamenco: Cía. Estíbaliz Núñez** - Auditorio Municipal La Chumbera, 20:30, price not listed.
-- **Los Rebeldes** - Sala Aliatar, 22:00, 32.50 euros.
+**Other events this week:** I could not verify listings for the Teatro Isabel la Católica, the Auditorio Manuel de Falla, the Palacio de Congresos, Granada CF fixtures or the live-music venues (Industrial Copera, El Tren, New Moon). Check those venues directly.
 
-**Saturday 28 Nov**
-- **Coro Tomás Luis de Victoria** - Catedral, 19:30, free.
-- **Techno Pop: lo mejor de los 80-90** - Palacio de Congresos, 20:00, 44/49 euros.
-- **Andrés Suárez** - Auditorio Manuel de Falla, 21:00, 37 euros.
-- **José Ignacio Lapido + Javi Tejero** - Planta Baja, 21:00, price not listed.
-- **Los Sabineros** - Rocknrolla, 21:30, 17 euros.
-- **Teatro Isabel la Católica** - One agenda lists La Flamenca on 28 Nov, but I could not confirm it. Check the venue.
+**Forecast, next days (AEMET, min/max, no rain expected):**
+- Thu 26: 1/14°C
+- Fri 27: 1/14°C
+- Sat 28: 4/17°C
+- Sun 29: 5/15°C
+- Mon 30: 3/16°C
+- Tue 1 Dec: 3/16°C, rain chance 10% at most
 
-**Sunday 29 Nov**
-- **La lírica del Corazón** - Auditorio Manuel de Falla, 12:00, 10 euros.
-- **Ocho apellidos andaluces 2: El Funeral** (comedy) - Palacio de Congresos, 18:00, 22 euros.
-- **Diana Navarro** - Palacio de Congresos, 19:00, 49.50/60 euros.
-- **Candlelight: Queen vs The Beatles** - Hotel Palacio Santa Paula, 21:00, 19.50/40 euros.
-- **Candlelight: Las Cuatro Estaciones de Vivaldi** - 19:00, venue and price not listed.
-- **Concierto de las Juventudes Musicales de Granada** - Auditorio Caja Rural, 20:00, price not listed.
-
-**Mon 30 Nov - Wed 2 Dec**
-- I found no confirmed listings for these days.
+Mornings will be cold, close to freezing on Thursday and Friday.
 
 ## Local news
-
-- **25N tributes and election-season debate on gender violence** - The Subdelegación, Diputación and Ayuntamiento held institutional acts. The subdelegate called for democratic unity against gender violence. Granada Digital compared the PSOE, PP, VOX, Frente Amplio and Adelante Andalucía proposals on the issue. (Granada Digital, Ahora Granada)
-- **Granada 2031 European Capital of Culture** - The evaluation committee visited the city today. Granada Digital covered its route and the lunch prepared by the Escuela de Hostelería Hurtado de Mendoza. (Granada Digital)
-- **Metro strike** - The PSOE asked the Junta for explanations over the Metro strike and called for more resources for staff. I could not confirm the strike dates or whether service is affected today, so check before travelling. (Ahora Granada, via search summary)
-- **Cannabis plantation under a children's playground, Las Gabias** - The Guardia Civil dismantled a roughly 180 m² underground grow with a vehicle ramp. About 2,500 plants were seized and five people were arrested. (Infobae, Granada Digital)
-- **Light aircraft accident, Ventas de Huelma** - Two people were injured when a training plane crashed. (Infobae, Granada Digital)
-- **Fatal fall at a warehouse in Caniles** - A man died after a fall. I found only the headline. (Granada Digital)
-- **Teatro Isabel la Católica 2027 programme** - It includes Lydia Bosch, Fernando Tejero, Paloma San Basilio and María Galiana. (Granada Digital)
-- **Christmas lights going up on calle Ganivet** - Installation has started. (Granada Digital)
+- **Granada reaches 957,055 inhabitants** - The city recorded its biggest population gain in five years (Granada es noticia, 24 Nov).
+- **Free election-day transport for people with limited mobility** - The Ayuntamiento is offering it for the 29 November vote. It also held a training session for polling-station staff on 23 November (granada.org).
+- **Heritage education programme** - 39,437 local students are taking part (Granada es noticia).
+- **Gender-violence day events** - The Ayuntamiento's cultural agenda highlights today's day against gender violence (granada.org).
+- **Granada CF** - The women's team drew 0-0 at bottom side Valencia CF on 15 November (Granada En Juego). Former club president Pina said he had no role in sporting management (report of 16 Nov).
+- **Road works** - The city's mobility centre lists a November resurfacing plan across several streets. Check movilidadgranada.com for today's closures (Centro de Gestión Integral de Movilidad).
 
 ## National news
-
-- **Snap general election on Sunday 29 November** - The campaign is in its final stretch. The Local reports young voters moving to the far right. Another outlet cites final polls pointing to a PP-Vox majority, which I could not verify. (The Local, Spain in English)
-- **Beckham Law** - Irene Montero, a far-left candidate, proposes repealing the tax regime used by some high-income foreign residents. It could matter to expats. (The Local)
-- **Puigdemont** - Reports say the Supreme Court ended the case against him, and The Local says he plans to return to Spain in December. (The Local, Spain in English)
-- **Parental leave** - The cabinet approved an extension to 20 weeks per parent. (The Local)
-- **Bereavement leave** - It rises to ten days for workers. (The Local)
-- **Vape flavours** - A decree reportedly bans non-tobacco vape flavours and limits nicotine pouches. I found this in one aggregator only. (Briev)
+- **Brussels warns of possible excessive deficit procedure** - The European Commission estimates Spain will overshoot its 2026 spending limit by about €5 billion. It blames energy-relief measures and public-sector pay rises, especially in the regions (The Local Spain).
+- **Election campaign enters final days** - Spain votes on Sunday 29 November. Feijóo holds a rally in Madrid today, and a four-way candidates' debate is expected Thursday (EFE via Infobae). Youth support for the far right and Irene Montero's call to scrap the Beckham Law are also in the headlines (The Local Spain).
+- **Overseas voters queue at consulates** - Spaniards abroad faced hours-long waits to cast early ballots (The Local Spain).
+- **Record migrant arrivals at El Hierro** - 2,121 people arrived in a single day, and the Canary Islands have seen a surge in boat arrivals this month (The Local Spain).
+- **New family leave rules** - Spain is introducing 20 weeks of parental leave and raising bereavement leave to ten days. I only saw the headlines (The Local Spain).
+- **Puigdemont return** - An exiled Catalan separatist leader plans to return to Spain in December, per the headline. The article was not read (The Local Spain).
 
 ## Good to know
-
-- **Election day:** Polling is Sunday 29 November. Candidate proposals on gender violence are compared in Granada Digital's 25 November roundup.
-- **Pinos Genil access:** The Aguas Blancas bridge is closed for roughly two weeks. I found no start date, so allow extra time if you are driving there.
-- **Sierra Nevada trips:** Check the AEMET mountain forecast, since temperatures are expected to drop.
-- **Not covered:** El País English could not be fetched. I found no AEMET data, and I found no air-quality alerts.
+- Expect evening transport disruption in city centres today because of the 25 November marches.
+- Election day is Sunday 29 November. Free assisted transport to polling stations is available from the Ayuntamiento for people with mobility difficulties.
+- No AEMET warnings are active for the Cuenca del Genil zone. The snow level is about 1,700 m.
