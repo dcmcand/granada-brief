@@ -5,54 +5,42 @@ lang: es
 
 [English](/) | **Español**
 
-# Resumen de Granada - viernes 27 de noviembre de 2026
+# Resumen de Granada - sábado 28 de noviembre de 2026
 
-**De un vistazo:** Tiempo seco y despejado, con una máxima de 14 °C y una mínima de -2 °C, según [AEMET](https://www.aemet.es/es/eltiempo/prediccion/municipios/granada-id18087). Los trabajadores del Metro de Granada están hoy y mañana en huelga durante toda la jornada, con servicios mínimos del 60 % y trenes cada 13 minutos aproximadamente en lugar de cada 6,5. [Granada Digital](https://www.granadadigital.es/huelga-total-metro-granada-27-28-noviembre/) España acude a las urnas en las elecciones generales el domingo 29 de noviembre.
+**De un vistazo:** El Metro de Granada está hoy en huelga total, según Granada Digital. España vota mañana, domingo 29 de noviembre, en unas elecciones generales. No se ha dispuesto de una previsión verificada de la AEMET para Granada.
 
 ## Próximos eventos
 
-**Viernes 27 de noviembre**
-- **Marcha de los trabajadores del Metro** - Parte de la calle Alondra a las 11:00 h y termina en la plaza del Carmen hacia las 13:00 h. La plantilla protesta por el convenio colectivo con la operadora Avanza. [Granada Digital](https://www.granadadigital.es/huelga-total-metro-granada-27-28-noviembre/)
-- **Julio Iglesias Jr.** - Palacio de Congresos, 20:00 h, 60,50 euros. [Granada Digital](https://www.granadadigital.es/agenda-cultural-final-noviembre-granada/)
-- **Los Rebeldes** - Sala Aliatar, 22:00 h, 32,50 euros. [Granada Digital](https://www.granadadigital.es/agenda-cultural-final-noviembre-granada/)
-- **Macbeth** - Teatro Alhambra, 18/20 euros. La programación no indica fecha ni hora, así que conviene consultar la agenda. [Granada Digital](https://www.granadadigital.es/agenda-cultural-final-noviembre-granada/)
-
 **Sábado 28 de noviembre**
-- **Traslados de vuelta de Kerygma** - Desde las 09:00 h en la Catedral. Las 45 imágenes regresan a sus templos por cuatro itinerarios: Zaidín-Zona Sur, Realejo-Zona Este, Centro-Zona Oeste y Albaicín-Zona Norte. Se esperan cortes de tráfico a lo largo de los recorridos. [Granada Digital](https://www.granadadigital.es/traslados-kerygma-granada-horarios-itinerarios/)
-- **Concentración de la huelga del Metro** - De 11:30 a 13:00 h en las paradas de Recogidas y Camino de Ronda. [Granada Digital](https://www.granadadigital.es/huelga-total-metro-granada-27-28-noviembre/)
-- **Apertura de temporada en Sierra Nevada** - Abre únicamente para uso turístico, porque no hay nieve suficiente para esquiar. Se puede practicar trineo en Mirlo Blanco y Borreguiles. La zona de debutantes de Borreguiles y el remonte Emile Allais dependen de la producción de nieve. [Granada Digital](https://www.granadadigital.es/sierra-nevada-apertura-temporada-uso-turistico/)
-- **Andrés Suárez** - Auditorio Manuel de Falla, 21:00 h, 37 euros. [Granada Digital](https://www.granadadigital.es/agenda-cultural-final-noviembre-granada/)
+- **Salón del Vehículo de Ocasión** - Fermasa, Granada. Del 26 al 29 de noviembre. Más de 1.000 vehículos de segunda mano, con descuentos de hasta 5.000 euros. No se indican el horario ni el precio de la entrada. [Granada Digital](https://www.granadadigital.es/fermasa-feria-vehiculos-ocasion-2026/)
+- **Sima Granada - Cádiz** - Partido de liga de fútbol sala que supone el regreso del equipo granadino a la competición liguera, descrito como un encuentro exigente. No se indican el lugar ni la hora. [Granada Digital](https://www.granadadigital.es/sima-granada-cadiz-virgili-segunda-b-futbol-sala/)
+- **Traslados del Kerygma** - Cobertura en directo de 45 traslados de hermandades (33 a hombros y 12 sobre ruedas) a lo largo de cuatro itinerarios principales. Consulte el artículo para conocer los horarios de hoy. [Granada Digital](https://www.granadadigital.es/traslados-kerygma-2026-directo/)
 
 **Domingo 29 de noviembre**
-- **Elecciones generales** - Jornada electoral en toda España. [Granada Digital](https://www.granadadigital.es/resultados-elecciones-generales-29n/)
-- **Granada CF - Ceuta** - Los Cármenes, LaLiga Hypermotion. La fuente no indica hora de inicio ni precios. [Granada Digital](https://www.granadadigital.es/horario-granada-girona-diciembre/)
-- **Diana Navarro** - Palacio de Congresos, 19:00 h, 49,50/60 euros. [Granada Digital](https://www.granadadigital.es/agenda-cultural-final-noviembre-granada/)
-
-**Miércoles 2 de diciembre**
-- **Almería - Granada CF, Copa del Rey** - 20:00 h. La fuente no aclara qué club hace de local. [Granada Digital](https://www.granadadigital.es/horario-granada-girona-diciembre/)
-
-**Domingo 6 de diciembre**
-- **Sporting de Gijón - Granada CF** - 18:30 h, a domicilio. [Granada Digital](https://www.granadadigital.es/horario-granada-girona-diciembre/)
+- **Elecciones generales** - Los colegios cierran a las 20:00 h y se esperan resultados provisionales a partir de las 21:00 h aproximadamente. El resultado oficial definitivo no llegará hasta el escrutinio del voto exterior, el viernes 4 de diciembre. [The Local](https://www.thelocal.es/20261127/join-our-live-qa-as-spain-heads-for-pivotal-general-election)
+- **Salón del Vehículo de Ocasión** - Último día en Fermasa. [Granada Digital](https://www.granadadigital.es/fermasa-feria-vehiculos-ocasion-2026/)
 
 ## Noticias locales
 
-- **La huelga del Metro golpea a Granada durante dos días** - Los trabajadores rechazaron una oferta de Avanza de subida salarial del 41,2 % para 2026-2030 en el marco del conflicto por el convenio colectivo. Los servicios mínimos se han fijado en el 60 %. [Granada Digital](https://www.granadadigital.es/huelga-total-metro-granada-27-28-noviembre/)
-- **Miles de personas se manifiestan contra la violencia de género** - La marcha del 25 de noviembre discurrió desde la plaza del Triunfo hasta Plaza Nueva. Las intervenciones criticaron las políticas del gobierno autonómico y que los Montes Orientales lleven 694 días sin centro de información a la mujer. No se facilitó una cifra oficial de asistencia. [Granada Digital](https://www.granadadigital.es/granada-manifestacion-multitudinaria-25n/)
-- **La exposición Kerygma concluye con el traslado de las imágenes** - Las 45 imágenes religiosas regresan a sus templos el sábado por la mañana. [Granada Digital](https://www.granadadigital.es/traslados-kerygma-granada-horarios-itinerarios/)
-- **Los hundimientos de la circunvalación A-44 siguen sin resolverse** - Demarcación de Carreteras del Estado ha reparado los hundimientos en la GR-30 a la altura de Maracena y La Chana, y en la GR-43 en Pinos Puente. El tramo Alhendín-Las Gabias no cuenta con una solución definitiva, y en 2022 se redujo su límite de velocidad a 80 km/h en unos 1,2 km. [Granada Digital](https://www.granadadigital.es/hundimientos-a44-alhendin-las-gabias/)
-- **El Teatro Isabel la Católica presenta su programación del primer semestre de 2027** - Los 14 espectáculos se reparten entre enero y julio. Abre la temporada "Fedra", con Lydia Bosch (del 15 al 17 de enero), seguida de "La Saga", con Fernando Tejero (del 19 al 21 de febrero), y "Dulcinea", con Paloma San Basilio (5 y 6 de marzo). [Granada Digital](https://www.granadadigital.es/teatro-isabel-catolica-programacion-2027/)
-- **Continúa el conflicto por la falta de personal en el Ayuntamiento** - UGT realizó el 17 de noviembre un paro y una concentración en el Centro Cívico del Zaidín. El sindicato ha advertido de una posible huelga municipal antes de que acabe el año si el próximo presupuesto no da respuesta. [Motril Digital](https://www.motrildigital.news/granada-ugt-mantiene-las-protestas-por-la-falta-de-personal-municipal-y-advierte-de-una-posible-huelga-antes-de-fin-de-ano)
+- **Huelga del Metro de Granada** - Los trabajadores están en huelga total el viernes 27 y el sábado 28 de noviembre. La información de Granada Digital no quedó plenamente confirmada en la fuente. [Granada Digital](https://www.granadadigital.es/huelga-total-metro-granada-27-28-noviembre/)
+- **Claves de los traslados del Kerygma** - Los traslados de las hermandades se producen antes de un triduo previo a la reapertura de una iglesia. Coinciden con el encendido de las luces de Navidad, y una hermandad regresa a dos barrios. [Granada Digital](https://www.granadadigital.es/traslados-kerygma-granada-claves/)
+- **Ayudas por los terremotos** - La Junta ha ordenado un anticipo de 2,6 millones de euros al Ayuntamiento de Granada por los daños de los terremotos. El pago llega antes de que se resuelva la subvención definitiva. [Granada Digital](https://www.granadadigital.es/granada-anticipio-ayudas-terremotos-junta/)
+- **Ofensiva turística en México** - La Diputación lleva a cabo una campaña en Monterrey, Guadalajara y Ciudad de México dirigida a visitantes mexicanos de alto poder adquisitivo. [Granada Digital](https://www.granadadigital.es/turismo-mexicano-granada-campana/)
+- **José Coronado y Lorca** - El actor recuerda cómo empezó su carrera con la obra de Federico García Lorca. La entrevista guarda relación con el premio honorífico de los Premios Lorca. [Granada Digital](https://www.granadadigital.es/jose-coronado-granada-lorca/)
+- **Coro Rock y Memoria** - El coro, impulsado por la Fundación Miguel Ríos, ofrece un programa terapéutico y social para personas con deterioro cognitivo. [Granada Digital](https://www.granadadigital.es/rock-memoria-coro-superpoderes-musica/)
+- **El aljibe de la Alhambra** - Un reportaje sobre la historia, las leyendas y los datos poco conocidos de la cisterna. [Granada Digital](https://www.granadadigital.es/aljibe-alhambra-granada-secretos/)
+- **Filtración de datos de LaLiga** - Un ciberataque habría afectado a datos de aficionados del Granada CF. La fuente no lo confirmó del todo. [Granada Digital](https://www.granadadigital.es/laliga-ciberataque-datos-aficionados/)
 
 ## Noticias nacionales
 
-- **España se encamina a unas elecciones generales el domingo** - The Local informa de que los votantes parecen dispuestos a elegir un gobierno de derechas. El medio celebra hoy a mediodía un coloquio en directo con preguntas de los lectores. [The Local](https://www.thelocal.es/20261127/join-our-live-qa-as-spain-heads-for-pivotal-general-election)
-- **Canarias pide ayuda ante el aumento de llegadas de migrantes** - El gobierno regional califica las llegadas de "sin precedentes". [The Local](https://www.thelocal.es/20261126/spains-canary-islands-plead-for-help-amid-unprecedented-migrant-surge)
-- **Vertido de petróleo tras el hundimiento de un barco frente a Ibiza** - Las autoridades trabajan para contener la mancha. [The Local](https://www.thelocal.es/20261126/spain-races-to-stop-oil-spill-after-ship-sinks-off-ibiza)
-- **El Gobierno aprueba nuevas medidas para los autónomos** - El Consejo de Ministros aprobó el paquete el 26 de noviembre. [The Local](https://www.thelocal.es/20261126/spain-approves-new-measures-for-the-self-employed)
-- **Manifestaciones contra la violencia de género antes de las elecciones** - Hubo concentraciones por toda España en torno al 25 de noviembre. [The Local](https://www.thelocal.es/20261126/protesters-rally-in-spain-against-gender-violence-ahead-of-election)
-- **Un candidato de la izquierda radical pide suprimir la Ley Beckham** - La propuesta pondría fin al régimen fiscal especial para residentes extranjeros. [The Local](https://www.thelocal.es/20261125/expats-pay-hard-left-leader-calls-for-spains-beckham-law-to-be-scrapped)
+- **Sánchez hace un último esfuerzo antes de las urnas** - El presidente del Gobierno, Pedro Sánchez, hizo campaña el último día, el 27 de noviembre, antes de las elecciones del domingo. Los sondeos sitúan al PP por delante, lo que probablemente desembocaría en un Parlamento sin mayorías en el que podría apoyarse en Vox. Los comicios se adelantaron después de que la derecha rechazara en octubre los decretos urgentes sobre vivienda. [The Local](https://www.thelocal.es/20261127/sanchez-makes-last-bid-to-beat-the-right-ahead-of-spanish-vote)
+- **Preguntas clave de las elecciones** - La última encuesta permitida (40dB, 23 de noviembre) situaba al PP en el 31,8 %, al PSOE en el 30,9 % y a Vox en torno al 17,3 %. Un Gobierno necesita 176 escaños en el Congreso. [The Local](https://www.thelocal.es/20261127/join-our-live-qa-as-spain-heads-for-pivotal-general-election)
+- **Márquez anuncia su retirada** - Marc Márquez anunció el 27 de noviembre en el circuito de Valencia que deja MotoGP tras 13 años. Tiene 33 años y se ha sometido a varias operaciones en el brazo derecho y el hombro. [The Local](https://www.thelocal.es/20261127/spains-motogp-legend-marquez-announces-surprise-retirement)
+- **Muertes de migrantes frente a Canarias** - Al menos ocho migrantes han muerto en aguas cercanas al archipiélago. [The Local](https://www.thelocal.es/20261127/at-least-8-migrants-die-off-spains-canary-islands)
+- **Hernández de Cos sucederá a Lagarde** - El español Hernández de Cos se dispone a asumir la presidencia del BCE. [The Local](https://www.thelocal.es/20261127/spains-hernandez-de-cos-to-succeed-lagarde-as-ecb-chief)
+- **Buque cargado de diésel volcado frente a Ibiza** - La embarcación será remolcada hasta puerto. [The Local](https://www.thelocal.es/20261127/capsized-ship-carrying-diesel-off-spains-ibiza-to-be-towed-to-port)
 
 ## Conviene saber
 
-- El Metro funciona con frecuencia reducida hoy y mañana por la huelga. [Granada Digital](https://www.granadadigital.es/huelga-total-metro-granada-27-28-noviembre/)
-- El Gobierno pondrá a disposición una plataforma digital y una aplicación con la participación y los resultados provisionales en la noche electoral. [Granada Digital](https://www.granadadigital.es/resultados-elecciones-generales-29n/)
+- Los servicios del Metro de Granada se ven afectados hoy por la huelga, así que conviene salir con tiempo de sobra o utilizar el autobús. [Granada Digital](https://www.granadadigital.es/huelga-total-metro-granada-27-28-noviembre/)
+- Mañana cabe esperar cierres por la jornada electoral y colas en los colegios electorales, que cerrarán a las 20:00 h. [The Local](https://www.thelocal.es/20261127/join-our-live-qa-as-spain-heads-for-pivotal-general-election)
